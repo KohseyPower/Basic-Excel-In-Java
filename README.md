@@ -1,4 +1,4 @@
-# Basic Excel in Java 2023
+# Basic Excel in Java
 
 Created by Maxime LELONG, Kohsey DUFOUR, and Axel PIETROIS for a project at School.
 
