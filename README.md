@@ -1,33 +1,27 @@
-# SAE32_2023
+# Basic Excel in Java 2023
 
-Réalisé par Maxime LELONG, Kohsey DUFOUR et Axel PIETROIS
+Created by Maxime LELONG, Kohsey DUFOUR, and Axel PIETROIS for a project at School.
 
-## Suppression
+## Deletion
 
-Pour supprimer l'archive .jar :
+To delete the .jar archive:
 ```properties
 make clean
 ```
 
 ## Compilation
 
-Pour générer l'archive .jar lancez la commande suivante :
+To generate the .jar archive, run the following command:
 ```properties
 make build
 ```
 
 ## Execution
 
-Pour lancer le tableur lancez la commande suivante :
+To launch the spreadsheet, run the following command:
 ```properties
 make tableur
 ```
 
-Pour tout lancer :
-```properties
-make all
-```
 
-## Rapport
 
-Cliquez [ici](rapport/SAE%2032_2023.pdf) pour voir le rapport en pdf
