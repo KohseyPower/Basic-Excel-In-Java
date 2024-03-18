@@ -23,5 +23,7 @@ To launch the spreadsheet, run the following command:
 make tableur
 ```
 
+Report
 
+Click [here](rapport/Basic%20Excel%20in%20Java%202023.pdf) to view the report in PDF (French).
 
